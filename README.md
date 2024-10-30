@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iGranolaBar
+- 👀 I’m interested in: Learning all new kinds of projects and skills
+- 🌱 I’m currently learning go, JS, Rust, and Java
+- 💞️ I’m looking to collaborate on any go based system
+- 📫 How to reach me: LinkdIn or email nathanielcdavis@yahoo.com
+- ⚡ Fun fact: I could read Tom Clancy books before I could tie my shoes
